@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/kristianjokela/rel-please-test/compare/v1.2.0...v1.2.1) (2023-01-05)
+
+
+### Bug Fixes
+
+* add test to app ([aa05b3a](https://github.com/kristianjokela/rel-please-test/commit/aa05b3a7850144b3739d71a7b5484be4bd1920f8))
+
 ## [1.2.0](https://github.com/kristianjokela/rel-please-test/compare/v1.1.0...v1.2.0) (2023-01-05)
 
 
