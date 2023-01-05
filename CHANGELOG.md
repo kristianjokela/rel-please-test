@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/kristianjokela/rel-please-test/compare/v1.0.0...v1.1.0) (2023-01-05)
+
+
+### Features
+
+* add new app inside apps with own package.json ([046ac59](https://github.com/kristianjokela/rel-please-test/commit/046ac597a7f926885a623008cde23bb13f213c9e))
+* add package.json ([4f1a28b](https://github.com/kristianjokela/rel-please-test/commit/4f1a28ba07dd62447c690b222179ca206abd3b57))
+* add second app, rename first app ([8bf5956](https://github.com/kristianjokela/rel-please-test/commit/8bf5956538802b3e0c5cd16314218a3c5225baf2))
+
+
+### Bug Fixes
+
+* add two totally important missing lines ([ce383c7](https://github.com/kristianjokela/rel-please-test/commit/ce383c740b13f337157fd676da083fadd3561c8b))
+
 ## 1.0.0 (2023-01-05)
 
 
