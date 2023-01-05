@@ -12,4 +12,5 @@ jobs:
         with:
           release-type: node
           default-branch: main
-          package-name: release-please-action
+          package-name: test
+          monorepo-tags: true
