@@ -1,1 +1,1 @@
-console.log('hello hello world first app!!!! entä nyt?');
+console.log('hello first app');
