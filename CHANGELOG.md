@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/kristianjokela/rel-please-test/compare/v1.1.0...v1.2.0) (2023-01-05)
+
+
+### Features
+
+* add manifest ([e492094](https://github.com/kristianjokela/rel-please-test/commit/e49209457d7a4f9648d32c35be9654536a2b9897))
+
 ## [1.1.0](https://github.com/kristianjokela/rel-please-test/compare/v1.0.0...v1.1.0) (2023-01-05)
 
 
