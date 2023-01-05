@@ -5,3 +5,7 @@ Now there's release-please running on the repository, and it will automatically 
 I'll just update readme a bit more here.
 
 Here's one more line here.
+
+OK so here's just two more for the next version.
+
+And here's the other I promised.
