@@ -13,4 +13,3 @@ jobs:
           release-type: node
           default-branch: main
           package-name: test
-          monorepo-tags: true
