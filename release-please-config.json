@@ -1,7 +1,6 @@
 {
   "separate-pull-requests": true,
   "packages": {
-    ".": { "release-type": "node" },
     "apps/app": { "release-type": "node" },
     "apps/first-app": { "release-type": "node" },
     "apps/second-app": { "release-type": "node" }
