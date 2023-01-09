@@ -1,8 +1,8 @@
 {
   "packages": {
-    ".": {},
-    "apps/app/": {},
-    "apps/first-app/": {},
-    "apps/second-app/": {}
+    ".": { "release-type": "node" },
+    "apps/app/": { "release-type": "node" },
+    "apps/first-app/": { "release-type": "node" },
+    "apps/second-app/": { "release-type": "node" }
   }
 }
