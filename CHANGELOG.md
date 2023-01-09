@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.3.0](https://github.com/kristianjokela/rel-please-test/compare/v1.2.0...v1.3.0) (2023-01-09)
+
+
+### Features
+
+* add more text ([45a163d](https://github.com/kristianjokela/rel-please-test/commit/45a163d6986da785d25c5b8c509ecf09378784bb))
+* add second-app text ([c08081b](https://github.com/kristianjokela/rel-please-test/commit/c08081bc8e33d280b85f2c5a7e85ed0df74e0b76))
+* try multi pr ([6e21de7](https://github.com/kristianjokela/rel-please-test/commit/6e21de7682e82000a9b864bec61f72ce23877c00))
+* try single pr ([5e5fc34](https://github.com/kristianjokela/rel-please-test/commit/5e5fc346d1e350f6bd9b831f77a3085f33df2c24))
+
+
+### Bug Fixes
+
+* add monorepo-tags ([63af4e7](https://github.com/kristianjokela/rel-please-test/commit/63af4e7382df6bef38c8da3a2b5f8a021ef5a71e))
+* add more text ([998ab64](https://github.com/kristianjokela/rel-please-test/commit/998ab642fc69e240ccc80c0e894f4976d4285c5b))
+* add more text ([8ac6801](https://github.com/kristianjokela/rel-please-test/commit/8ac680153f0c508447099d3c3ed698bc87665550))
+* add more text ([b2a55d5](https://github.com/kristianjokela/rel-please-test/commit/b2a55d54d86a9cd48dfaa9ed052a04e9b04e3733))
+* add test to app ([aa05b3a](https://github.com/kristianjokela/rel-please-test/commit/aa05b3a7850144b3739d71a7b5484be4bd1920f8))
+* add text to first app hello world ([26fd7f7](https://github.com/kristianjokela/rel-please-test/commit/26fd7f783ab79281786bf9d511d21c7f4138c76a))
+* change tag version ([c61e0d7](https://github.com/kristianjokela/rel-please-test/commit/c61e0d740b2eccb0fc2be6fb005e1ce5583d96b5))
+* change tag version ([ddc8b88](https://github.com/kristianjokela/rel-please-test/commit/ddc8b88150ba0abf7555a1caa8ca1c16fbf25543))
+* clear manifest ([989be65](https://github.com/kristianjokela/rel-please-test/commit/989be650aedd8fd4c5de4beeadd533f8b8da03ff))
+* first app text ([5f222b4](https://github.com/kristianjokela/rel-please-test/commit/5f222b4eed3f638f4f8b12144924ef78c754ca48))
+* **first-app:** add ! to the end ([5009dc3](https://github.com/kristianjokela/rel-please-test/commit/5009dc3ff1337978005cabe660fac8d437c99712))
+
 ## [1.2.1](https://github.com/kristianjokela/rel-please-test/compare/v1.2.0...v1.2.1) (2023-01-05)
 
 
