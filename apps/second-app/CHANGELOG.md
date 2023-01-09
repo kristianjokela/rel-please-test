@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/kristianjokela/rel-please-test/compare/second-app-v1.2.0...second-app-v1.2.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* Add new log to second-app ([f5d0f1f](https://github.com/kristianjokela/rel-please-test/commit/f5d0f1f6835c0172b374d8fc7ca5361965e8c8db))
+* **second-app:** Add moar line one ([f89e3e2](https://github.com/kristianjokela/rel-please-test/commit/f89e3e273b6454c18187257d48e146f3011570a6))
+
 ## [1.2.0](https://github.com/kristianjokela/rel-please-test/compare/second-app-v1.1.0...second-app-v1.2.0) (2023-01-09)
 
 
