@@ -6,5 +6,5 @@
     "apps/first-app": { "release-type": "node" },
     "apps/second-app": { "release-type": "node" }
   },
-  "plugins": ["sentence-case"]
+  "plugins": ["node-workspace", "sentence-case"]
 }
