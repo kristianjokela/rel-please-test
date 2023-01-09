@@ -1,9 +1,10 @@
 {
   "separate-pull-requests": true,
   "packages": {
-    ".": { "release-type": "node" },
-    "apps/app/": { "release-type": "node" },
-    "apps/first-app/": { "release-type": "node" },
-    "apps/second-app/": { "release-type": "node" }
-  }
+    ".": { "release-type": "node", "component": "test" },
+    "apps/app/": { "release-type": "node", "component": "app" },
+    "apps/first-app/": { "release-type": "node", "component": "first-app" },
+    "apps/second-app/": { "release-type": "node", "component": "second-app" }
+  },
+  "plugins": ["node-workspace", "sentence-case"]
 }
