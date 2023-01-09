@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.2](https://github.com/kristianjokela/rel-please-test/compare/v1.3.1...v1.3.2) (2023-01-09)
+
+
+### Bug Fixes
+
+* **first-app:** delete some hello worlds ([d16d109](https://github.com/kristianjokela/rel-please-test/commit/d16d10945457c2cff1c545f14cb01e941767234c))
+* **test:** add moar configs ([ca3b8b9](https://github.com/kristianjokela/rel-please-test/commit/ca3b8b9d83cf40c9ee1b18ec57376baa228232c0))
+
 ## [1.3.1](https://github.com/kristianjokela/rel-please-test/compare/v1.3.0...v1.3.1) (2023-01-09)
 
 
