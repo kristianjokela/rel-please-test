@@ -12,4 +12,3 @@ jobs:
         with:
           release-type: node
           default-branch: main
-          package-name: test
