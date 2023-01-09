@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/kristianjokela/rel-please-test/compare/test-v1.6.0...test-v1.6.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* Add node worksapce back away ([62b9a8d](https://github.com/kristianjokela/rel-please-test/commit/62b9a8d6fa8b35e734b2e1f0a63b9dc24cf4f0c2))
+
 ## [1.6.0](https://github.com/kristianjokela/rel-please-test/compare/test-v1.5.1...test-v1.6.0) (2023-01-09)
 
 
