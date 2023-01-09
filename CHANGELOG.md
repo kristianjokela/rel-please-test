@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/kristianjokela/rel-please-test/compare/v1.3.0...v1.3.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* **first-app:** add hello worlds ([564294e](https://github.com/kristianjokela/rel-please-test/commit/564294e3926189a588a6d3e1a3805363bcecd052))
+* **test:** add seperate pr config ([2241fc5](https://github.com/kristianjokela/rel-please-test/commit/2241fc545022ed49ed4709d28b0ee6c7bde4f844))
+
 ## [1.3.0](https://github.com/kristianjokela/rel-please-test/compare/v1.2.0...v1.3.0) (2023-01-09)
 
 
