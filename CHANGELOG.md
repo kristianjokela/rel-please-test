@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.1](https://github.com/kristianjokela/rel-please-test/compare/test-v1.5.0...test-v1.5.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* Add line to second-app ([0ff37a3](https://github.com/kristianjokela/rel-please-test/commit/0ff37a37830d1f62b7e9ae167ae196eca54110a9))
+* Add node worksapce back ([4374843](https://github.com/kristianjokela/rel-please-test/commit/4374843a0849e191fea8bc1ad392e5812625064c))
+
 ## [1.5.0](https://github.com/kristianjokela/rel-please-test/compare/test-v1.4.1...test-v1.5.0) (2023-01-09)
 
 
