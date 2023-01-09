@@ -10,5 +10,6 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-type: node
-          default-branch: main
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          command: manifest
+          monorepo-tags: true
