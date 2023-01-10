@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/kristianjokela/rel-please-test/compare/first-app-v1.1.2...first-app-v1.1.3) (2023-01-10)
+
+
+### Bug Fixes
+
+* Add line to both ([c445164](https://github.com/kristianjokela/rel-please-test/commit/c44516400320e99a8d5ff7289f803cd41e93c3de))
+* One line more or less ([899ab96](https://github.com/kristianjokela/rel-please-test/commit/899ab9649beb194da2a09ee5cf113d19f764209d))
+
 ## [1.1.2](https://github.com/kristianjokela/rel-please-test/compare/first-app-v1.1.1...first-app-v1.1.2) (2023-01-10)
 
 
