@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.2](https://github.com/kristianjokela/rel-please-test/compare/second-app-v1.5.1...second-app-v1.5.2) (2023-01-09)
+
+
+### Bug Fixes
+
+* **second-app:** Remove some lines again ([f687c9f](https://github.com/kristianjokela/rel-please-test/commit/f687c9fa2916413044e2478230f4e1b220b30890))
+
 ## [1.5.1](https://github.com/kristianjokela/rel-please-test/compare/second-app-v1.5.0...second-app-v1.5.1) (2023-01-09)
 
 
