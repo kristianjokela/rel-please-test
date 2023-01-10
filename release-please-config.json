@@ -1,5 +1,5 @@
 {
-  "separate-pull-requests": true,
+  "separate-pull-requests": false,
   "packages": {
     "apps/app": { "release-type": "node" },
     "apps/first-app": { "release-type": "node" },
