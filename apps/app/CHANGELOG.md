@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/kristianjokela/rel-please-test/compare/app-v1.1.0...app-v1.1.1) (2023-01-10)
+
+
+### Bug Fixes
+
+* Update app ([5113dd8](https://github.com/kristianjokela/rel-please-test/commit/5113dd8aeb1b624af28641669e49af7b05ba409e))
+
 ## [1.1.0](https://github.com/kristianjokela/rel-please-test/compare/app-v1.0.0...app-v1.1.0) (2023-01-09)
 
 

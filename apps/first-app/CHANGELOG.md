@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/kristianjokela/rel-please-test/compare/first-app-v1.1.0...first-app-v1.1.1) (2023-01-10)
+
+
+### Bug Fixes
+
+* Update first-app ([b9c32b8](https://github.com/kristianjokela/rel-please-test/commit/b9c32b89ddb4bf229d5d5e5f13332f5a5b57c95d))
+
 ## [1.1.0](https://github.com/kristianjokela/rel-please-test/compare/first-app-v1.0.0...first-app-v1.1.0) (2023-01-09)
 
 
